@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me @soynoahwolf
+- 📫 How to reach me at @soynoahwolf
 
 <!---
 soynoahwolf/soynoahwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
