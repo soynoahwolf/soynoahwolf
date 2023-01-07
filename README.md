@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soynoahwolf
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me at @soynoahwolf
 
